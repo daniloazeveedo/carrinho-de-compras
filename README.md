@@ -1,22 +1,22 @@
 # 🌟 Carrinho de Compras 🛒
 
-## 📝 Descrição
+## 🛠️ Tecnologias Utilizadas
+- **HTML5**: Estrutura da página e da interface.
+- **CSS3**: Estilização responsiva e visual atrativo.
+- **JavaScript**: Manipulação de dados, cálculos e interatividade.
+- **localStorage**: Armazena os dados do carrinho para que não sejam perdidos ao recarregar a página.
 
-Bem-vindo ao **Carrinho de Compras Interativo!** Este projeto implementa um carrinho de compras simples mas eficiente, onde você pode adicionar produtos, visualizar o total da compra e limpar o carrinho com facilidade. Tudo feito com **HTML**, **CSS** e **JavaScript**!
+## 🎓 Curso
+Este projeto foi desenvolvido como parte do curso de **Lógica de Programação** da **Alura**. Agradeço à plataforma pela excelente formação!
 
-O carrinho calcula automaticamente o valor total de sua compra e permite que você limpe o carrinho sempre que necessário. A interface é simples, mas funcional, e agora com muito estilo! 😎
+## 🤝 Contribua!
+Você pode ajudar a melhorar esse projeto! Basta fazer um fork e enviar um pull request. Qualquer sugestão ou melhoria é bem-vinda. 🙌
 
-## 🚀 Funcionalidades
+## 📄 Licença
+Este projeto está sob a **MIT License**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-- **🛍️ Adicionar Produtos:** Selecione os produtos e adicione a quantidade desejada. Os produtos serão listados no carrinho.
-- **💸 Visualização do Total:** O total da compra será atualizado automaticamente conforme você adicionar os produtos.
-- **🧹 Limpar o Carrinho:** Limpe rapidamente o carrinho e resetar o valor total de compras.
+## 🎉 Agradecimentos
+Agradecemos a todos que contribuíram ou irão contribuir com este projeto. Que ele seja útil para quem está começando ou aprendendo sobre programação web! 🚀
 
-## 📦 Como Usar
-
-1. **Clone o Repositório:**
-
-   Clone o projeto para a sua máquina local utilizando o comando abaixo:
-
-   ```bash
-   git clone https://github.com/daniloazeveedo/carrinho-de-compras.git
+## 💬 Entre em Contato
+Para dúvidas ou sugestões, entre em contato através do meu [LinkedIn](https://www.linkedin.com/in/daniloazeveedo) ou [GitHub](https://github.com/daniloazeveedo).
