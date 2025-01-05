@@ -1,5 +1,5 @@
-let totalGeral; 
-limpar
+let totalGeral = 0;
+limpar();
 
 // Configurar o campo quantidade inicialmente com 0 em cinza claro
 let campoQuantidade = document.getElementById('quantidade');
@@ -46,7 +46,7 @@ campoQuantidade.addEventListener('input', () => {
 });
 
 function limpar() {
-totalGeral = 0;
-document.getElementById('lista-produtos').innerHTML = '';
-document.getElementById('valor-total').textContent = 'R$ 0';
+    totalGeral = 0;  // Reseta o totalGeral
+    document.getElementById('lista-produtos').innerHTML = '';  // Limpa a lista de produtos
+    document.getElementById('valor-total').textContent = 'R$ 0';  // Reseta o valor total
 }
