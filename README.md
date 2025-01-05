@@ -11,7 +11,6 @@ O carrinho calcula automaticamente o valor total de sua compra e permite que voc
 - **🛍️ Adicionar Produtos:** Selecione os produtos e adicione a quantidade desejada. Os produtos serão listados no carrinho.
 - **💸 Visualização do Total:** O total da compra será atualizado automaticamente conforme você adicionar os produtos.
 - **🧹 Limpar o Carrinho:** Limpe rapidamente o carrinho e resetar o valor total de compras.
-- **💾 Persistência de Dados:** O carrinho mantém os dados mesmo após o recarregamento da página (usando `localStorage`).
 
 ## 📦 Como Usar
 
